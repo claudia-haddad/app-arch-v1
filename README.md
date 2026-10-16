@@ -27,3 +27,12 @@ Then open http://localhost:8765.
 All markets, odds, balances, activity, rankings, AI responses, and referral offers are illustrative. Trades and messages are simulated. No accounts, real-money transactions, or live AI services are connected. State resets when the page reloads.
 
 This is a standalone concept prototype, not an official production Kalshi app.
+
+## Website
+
+The `docs/` directory contains a landing page and both prototypes:
+
+- `docs/v1/`: five-tab app architecture.
+- `docs/v2/`: Trade, Discover, Portfolio, floating Search, and header Inbox.
+
+Publish with GitHub Pages from the `main` branch, `/docs` directory.
