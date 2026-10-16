@@ -8,7 +8,7 @@ A clickable Kalshi mobile navigation prototype.
 - **Invest:** Theme-based market discovery.
 - **Search:** Sample AI search and a leaderboard.
 
-The home header includes an Earn $25 referral preview.
+Every main tab includes an avatar shortcut to the social profile in the upper-right corner. The home header also includes an Earn $25 referral preview.
 
 ## Run locally
 
